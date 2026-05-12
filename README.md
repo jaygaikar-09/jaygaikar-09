@@ -1,5 +1,11 @@
 # 💫 About Me:
-Computer Science student passionate about Full Stack Development, Machine Learning, and Open Source.<br><br>Currently contributing to open-source projects through GSSoC 2026 while building real-world applications using Python, MERN Stack, and modern web technologies.<br><br>Experienced in developing responsive websites and ML-based solutions, including a Student Performance Prediction System and production-level web projects for organizations.<br><br>Interested in software development, scalable applications, and collaborating with developers to create meaningful tech solutions.<br><br>💡 Skills: Python, JavaScript, React.js, Node.js, Machine Learning, Git & GitHub<br>🚀 Open to collaborations and learning opportunities
+🔭 I’m currently working on Open Source Contributions, MERN Stack & Machine Learning Projects
+👯 I’m looking to collaborate on Full Stack, AI & Open Source Projects
+🤝 I’m looking for help with Advanced DSA, System Design & Scalable Applications
+🌱 I’m currently learning Next.js, TypeScript & Production-Level Development
+💬 Ask me about Python, JavaScript, React.js, Node.js & GitHub
+⚡ Fun fact: I love turning ideas into real-world projects and learning by building 🚀
+
 
 
 ## 🌐 Socials:
